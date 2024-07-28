@@ -4,6 +4,7 @@ this repository tells about all selenium concepts.
 dependencies from mvnrepository:
 Selenium WebDriver
 Apache POI
+TestNG
 
 Selenium Concepts:
 
@@ -30,5 +31,7 @@ AssignmentsQA
 Skills:
 Java
 Selenium
+TestNG
+Page object model using Page Factory
 
 
